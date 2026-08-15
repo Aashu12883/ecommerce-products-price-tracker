@@ -53,11 +53,11 @@ export default async function Home() {
 
 
           <h2 className="text-5xl font-bold text-white mb-4 tracking-tight">
-            Never Miss a Price Drop
+            Shop Smart. Catch the Drop.
           </h2>
           <p className="text-xl text-zinc-400 mb-12 max-w-2xl mx-auto">
-            Track prices from any e-commerce site. Get instant alerts when
-            prices drop. Save money effortlessly.
+            Track product prices effortlessly and get notified when they fall.
+            Find the right time to buy and save more on every purchase.
           </p>
 
           <AddProductForm user={user} />
